@@ -60,13 +60,6 @@
 			path = ModelView;
 			sourceTree = "<group>";
 		};
-		63AEE68A2C232DC20079C341 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
 		63F7E5172C16E7B700C19BC7 = {
 			isa = PBXGroup;
 			children = (
@@ -86,7 +79,6 @@
 		63F7E5222C16E7B700C19BC7 /* CulComL1 */ = {
 			isa = PBXGroup;
 			children = (
-				63AEE68A2C232DC20079C341 /* Model */,
 				63AEE6892C232DB90079C341 /* ModelView */,
 				63AEE6882C232DB00079C341 /* View */,
 				63F7E5272C16E7B800C19BC7 /* Assets.xcassets */,
